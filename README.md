@@ -8,14 +8,7 @@ The main goal of this work is to study the capability to check the cardiovascula
 
 A first study of the evolution of the pulse wave form when propagating throughout the body will be performed. To do so, the ICG signal will be measured using different body locations in order to understand the behavior of the way and if it is possible to use more comfortable spots such as the lower parts of limbs to get measurements that traditionally have required more uncomfortable spots such as the chest and thorax. 
 
-
-![MeasurementLocation](Images/MeasurementLocations.png)
-
 The impedance IPG signals will be studied and characterized as a suitable alternative for the ICG signals, allowing both patients and medicals make measures of interest in more comfortable spots and obtain theoretically the same information. 
 
 During this thesis a device is proposed to obtain the electrocardiogram, impedance plethysmography and a photoplethysmography as well. This device is intended to be lowcost and allowing the tracking of an individual cardiovascular health using the most comfortable measures for each patient. This device has connectivity via wire along with a battery supporting over many hours of continuous operation. The visualization of these signals will be done on a computer, where a post-processing of the information could be
 performed as well.
-
-
-
-![MeasurementLocation](Images/signals.png)
