@@ -6,7 +6,7 @@ Nowadays cardiovascular diseases are a main concern in the society as they impac
 
 The main goal of this work is to study the capability to check the cardiovascular system using IPG signals in different spots of the body, allowing a brand-new versatility in the way some measures are performed. Different ECG, ICG, IPG and PPG signals will be acquired and processed to be characterized in different locations of the human body. 
 
-![Locations](Images/MeasurementLocations.png)
+![Locations](Images/Locations.png)
 
 A first study of the evolution of the pulse wave form when propagating throughout the body will be performed. To do so, the ICG signal will be measured using different body locations in order to understand the behavior of the way and if it is possible to use more comfortable spots such as the lower parts of limbs to get measurements that traditionally have required more uncomfortable spots such as the chest and thorax. The impedance IPG signals will be studied and characterized as a suitable alternative for the ICG signals, allowing both patients and medicals make measures of interest in more comfortable spots and obtain theoretically the same information. 
 
